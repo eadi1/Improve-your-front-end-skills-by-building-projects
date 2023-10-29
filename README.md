@@ -16,5 +16,7 @@
 ## Overview
 
 ### Screenshot
-
+#### Desctop Screenshot
 ![](./Screenshot_1.png)
+#### Mobile Screenshot
+![](./Screenshot.png)
